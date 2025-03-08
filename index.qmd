@@ -2,7 +2,7 @@
 title: "website_test2"
 ---
 
-This is a Quarto website.
+This is ny actual idea of a website i think 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
